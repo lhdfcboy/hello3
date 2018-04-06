@@ -134,3 +134,5 @@ int PosixSemaphore::getValue()
 	//printf("ret=%d, pSem=%p iValue=%d\n", ret, pSem,iValue );
 	return iValue;
 }
+
+//最后增加了一行中文，在Visutal Studio中编辑的。
